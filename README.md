@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I write articles on [techtyro.in](techtyro.in)
+- 📝 I write articles on [techtyro.in](https://www.techtyro.in/)
 
 - 📫 How to reach me **saisrinugampa135@gmail.com**
 
