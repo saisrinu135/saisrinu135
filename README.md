@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python Fullstack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saisrinu135](https://github.com/saisrinu135)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/saisrinu135)
 
-- 📝 I write articles on [techtyro.in](techtyro.in)
+- 📝 I write articles on [Techtyro](https://techtyro.in/)
 
 - 📫 How to reach me **saisrinugampa135@gmail.com**
 
