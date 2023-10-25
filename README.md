@@ -2,8 +2,6 @@
 <h3 align="left">A recent graduate with fundamentals in Python and passion for technology</h3>
 <img align="right" width="300" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Library Management System**
-
 - 🌱 I’m currently learning **Python Fullstack**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saisrinu135)
