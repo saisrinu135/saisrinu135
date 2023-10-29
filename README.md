@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Saisrinu</h1>
-<h3 align="left">A recent graduate with fundamentals in Python and passion for technology</h3>
+<h3 align="left">A recent graduate with fundamentals in Python Development and passion for technology</h3>
 <img align="right" width="300" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Python Fullstack**
