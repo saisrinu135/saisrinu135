@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saisrinu135)
 
-- 📝 I write articles on [Techtyro](https://techtyro.in/)
-
 - 📫 How to reach me **saisrinugampa135@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
